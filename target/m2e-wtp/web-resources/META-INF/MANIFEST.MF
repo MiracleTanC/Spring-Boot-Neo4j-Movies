@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring-Neo4j-Movie
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Tan
+Implementation-Vendor-Id: com.appleyk
+Build-Jdk: 1.8.0_162
+Implementation-URL: http://projects.spring.io/spring-boot/Spring-Neo4j
+ -Movie/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
