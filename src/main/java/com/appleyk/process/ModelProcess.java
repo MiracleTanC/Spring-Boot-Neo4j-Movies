@@ -297,7 +297,7 @@ public class ModelProcess {
 		     * 1763年4月7日逝世。
 		     * 贝叶斯在数学方面主要研究概率论 == 贝叶斯公式是概率论中较为重要的公式
 		     */
-			SparkConf conf = new SparkConf().setAppName("NaiveBayesTest").setMaster("local[*]");
+			SparkConf conf = new SparkConf().setAppName("warmer").setMaster("local[*]");
 			JavaSparkContext sc = new JavaSparkContext(conf);
 
 			/**
